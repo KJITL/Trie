@@ -25,15 +25,6 @@ List all words that begin with a prefix: Allows the user to enter a prefix and d
 Size of the Trie: Displays the total number of nodes in the Trie.<br />
 End: Terminates the program.<br />
 
-### Screenshots
-
-<img src="https://user-images.githubusercontent.com/65549274/232445596-bc65d0a2-e010-4907-a9ef-b80926e9251c.jpg" width="400">
-
-<img src="https://user-images.githubusercontent.com/65549274/232445611-e33e661a-3503-40cf-b86d-c4a5d7e5d036.jpg" width="400">
-
-
-<img src="https://user-images.githubusercontent.com/65549274/232445626-15ed8674-6b51-4ddb-bd93-eefbded4130c.jpg" width="400">
-
 ### Usage
 To use the Trie data structure in this project, follow these steps:
 
@@ -43,8 +34,15 @@ Follow the prompts to enter input or perform actions on the Trie.<br />
 View the output and results of the operations.<br />
 Repeat steps 2-4 until the desired operations are completed.<br />
 Terminate the program by selecting the 'End' option from the menu.<br />
-###Output Screenshots<br />
+
+### Output Screenshots
 The project requires including output screenshots of the program's execution. These screenshots should showcase the different operations performed on the Trie, such as inserting words, searching for prefixes, deleting words, and displaying the size of the Trie.<br />
+
+<img src="https://user-images.githubusercontent.com/65549274/232445596-bc65d0a2-e010-4907-a9ef-b80926e9251c.jpg" width="400">
+
+<img src="https://user-images.githubusercontent.com/65549274/232445611-e33e661a-3503-40cf-b86d-c4a5d7e5d036.jpg" width="400">
+
+<img src="https://user-images.githubusercontent.com/65549274/232445626-15ed8674-6b51-4ddb-bd93-eefbded4130c.jpg" width="400">
 
 ### Dictionary File
 A dictionary file is included with the project, which is used to validate the words inserted into the Trie initially from the user's input list of letters.<br />
