@@ -25,6 +25,9 @@ List all words that begin with a prefix: Allows the user to enter a prefix and d
 Size of the Trie: Displays the total number of nodes in the Trie.
 End: Terminates the program.
 
+### Screenshots
+
+
 ### Usage
 To use the Trie data structure in this project, follow these steps:
 
